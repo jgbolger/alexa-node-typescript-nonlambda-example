@@ -1,1 +1,1 @@
-# alexa-node-typescript-nonlambda-example
+# Sample Hello World Skill using Node, Typescript & Express (rather than AWS Lambda)
